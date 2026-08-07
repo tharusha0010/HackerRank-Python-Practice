@@ -30,7 +30,7 @@ Sample Output 0
 '''
 import os
 os.system('cls')
-n = int(input("Enter the positive integer:"))
+n = int(input("Enter the positive integer :"))
 if 1<= n <= 20:
  for i in range(n):
     print(i**2)

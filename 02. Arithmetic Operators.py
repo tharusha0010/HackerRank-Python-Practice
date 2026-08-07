@@ -1,6 +1,6 @@
 
-a = input("Enter the number 1:")
-b = input("Enter the number 2:")
+a = input("Enter the number 01:")
+b = input("Enter the number 02:")
 
 num1 = int(a)
 num2 = int(b) 
